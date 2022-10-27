@@ -1,3 +1,3 @@
 # epic_training
 
-Repo for the testing sessions 
+Repo for the training sessions over linked lists and bin trees
